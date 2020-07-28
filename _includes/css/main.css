@@ -194,7 +194,7 @@ section.success {
         padding-top: 75px;
     }
 }
-
+/*
 #portfolio .portfolio-item {
     right: 0;
     margin: 0 0 15px;
@@ -244,7 +244,7 @@ section.success {
 
 #portfolio * {
     z-index: 2;
-}
+}*/
 
 @media(min-width:767px) {
     #portfolio .portfolio-item {
